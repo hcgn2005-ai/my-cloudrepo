@@ -1,0 +1,5 @@
+{
+  "name": "CloudStream Plugin Forge",
+  "description": "A generator tool to create, configure, and export CloudStream 3 extensions using AI to write the scraping logic.",
+  "requestFramePermissions": []
+}
